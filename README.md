@@ -53,6 +53,9 @@ Bengaluru recorded the highest profit among these six regions, while Hyderabad r
 
 ## 7. Power BI Dashboard
 
+### Dashboard Preview
+
+![Nike Sales Dashboard](Nike_Sales_Dashboard.png)
 An interactive Power BI dashboard titled **Business Performance and Sales Overview** was developed to present business performance through visualisations, KPI cards and interactive filters.
 
 The dashboard helps users explore sales performance and identify important business trends.
