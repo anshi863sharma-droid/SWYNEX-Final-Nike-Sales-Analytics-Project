@@ -78,3 +78,20 @@ The dashboard helps users explore sales performance and identify important busin
 This project demonstrates an end-to-end data analytics workflow, starting from data cleaning and exploration to SQL analysis and interactive dashboard development.
 
 It provided practical experience in analysing business data, identifying patterns and presenting findings to support informed decision-making.
+
+## Previous Task Submissions
+
+This final project builds upon the following three stages of work:
+
+### Task 1 – Data Cleaning and Preparation
+
+[SWYNEX – Data Cleaning & Preparation](https://github.com/anshi863sharma-droid/SWYNEX-Data-Cleaning-Preparation)
+
+### Task 2 – Nike Sales EDA and SQL Analysis
+
+[SWYNEX – Nike Sales EDA](https://github.com/anshi863sharma-droid/SWYNEX-Nike-Sales-EDA)
+
+### Task 3 – Power BI Interactive Dashboard
+
+[SWYNEX – Nike Sales Dashboard](https://github.com/anshi863sharma-droid/SWYNEX-Nike_Sales_Dashboard-)
+
