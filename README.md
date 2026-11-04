@@ -95,3 +95,20 @@ This final project builds upon the following three stages of work:
 
 [SWYNEX – Nike Sales Dashboard](https://github.com/anshi863sharma-droid/SWYNEX-Nike_Sales_Dashboard-)
 
+## Business Recommendations
+
+Based on the analysis, the following recommendations can help improve business performance:
+
+1. **Regional Performance:** Investigate the factors contributing to lower profitability in Hyderabad and Pune to identify improvement opportunities.
+
+2. **Focus on High-Performing Regions:** Study successful sales strategies in Bengaluru and Kolkata and explore opportunities to replicate them in other regions.
+
+3. **Product Performance:** Identify high-performing and low-performing product categories to improve inventory planning and sales strategies.
+
+4. **Data-Driven Decisions:** Regularly monitor sales, revenue and profit through interactive dashboards to support better business decisions.
+
+## Final Outcome
+
+This project demonstrates an end-to-end data analytics workflow using Excel, Python, MySQL and Power BI, transforming raw sales data into meaningful business insights.
+
+
